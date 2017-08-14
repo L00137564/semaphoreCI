@@ -25,7 +25,7 @@ def github_menu():
     # pass_word = input("Enter password: ")
     # g = Github(user_name, pass_word)
 
-    g = Github("06891da0a4b2306b0f882b92835b0c3d12cc35f3")
+    g = Github("")
     repo_name = None
     repo_dict = {}
 
